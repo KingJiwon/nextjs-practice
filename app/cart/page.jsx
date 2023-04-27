@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function page() {
+export default function Cart() {
   return (
     <>
       <h4 className="title">Cart</h4>
